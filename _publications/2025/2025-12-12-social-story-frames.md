@@ -17,4 +17,8 @@ authors:
   - Maarten Sap
 links:
   Paper: /assets/preprints/social_story_frames.pdf
+  Code: https://github.com/joel-mire/social-story-frames
+  SSF-Corpus: https://huggingface.co/datasets/joelmire/ssf-corpus
+  SSF-Generator: https://huggingface.co/joelmire/llama3.1-8b-it-ssf-generator
+  SSF-Classifier: https://huggingface.co/joelmire/llama3.1-8b-it-ssf-classifier
 ---
