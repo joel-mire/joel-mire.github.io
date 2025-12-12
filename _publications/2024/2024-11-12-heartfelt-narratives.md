@@ -1,7 +1,7 @@
 ---
 title: "HEART-felt Narratives: Tracing Empathy and Narrative Style in Personal Stories with LLMs"
 date: 2024-11-12
-selected: true
+selected: false
 pub: "EMNLP"
 pub_date: "2024"
 abstract: >-
