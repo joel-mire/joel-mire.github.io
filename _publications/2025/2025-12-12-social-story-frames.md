@@ -16,7 +16,7 @@ authors:
   - Andrew Piper
   - Maarten Sap
 links:
-  Paper: /assets/preprints/social_story_frames.pdf
+  Paper: https://arxiv.org/abs/2512.15925
   Code: https://github.com/joel-mire/social-story-frames
   SSF_Corpus: https://huggingface.co/datasets/joelmire/ssf-corpus
   SSF_Generator: https://huggingface.co/joelmire/llama3.1-8b-it-ssf-generator
