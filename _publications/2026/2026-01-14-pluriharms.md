@@ -1,8 +1,8 @@
 ---
 title: "PluriHarms: Benchmarking the Full Spectrum of Human Judgments on AI Harm"
-date: 2026-01-14
+date: 2026-04-23
 selected: false
-pub: "preprint"
+pub: "ICLR"
 pub_date: "2026"
 abstract: >-
   We create a dataset of pluralistic perceptions of AI harms to analyze disagreement and benchmark models and alignment methods.

@@ -1,12 +1,12 @@
 ---
 title: "Social Story Frames: Contextual Reasoning about Narrative Intent and Reception"
-date: 2025-12-12
+date: 2026-07-02
 selected: true
-pub: "preprint"
-pub_date: "2025"
+pub: "ACL"
+pub_date: "2026"
 abstract: >-
   We propose and apply a conceptual formalism for reasoning about narrative intent and reader response in conversational stories on social media.
-cover: /assets/images/covers/2025/social_story_frames.jpg
+cover: /assets/images/covers/2026/social_story_frames.jpg
 authors:
   - Joel Mire
   - Maria Antoniak
